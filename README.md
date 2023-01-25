@@ -1,2 +1,1 @@
-# prueba2
-es una prueba2 que más te puedo decir
+prueba de como crear un repositorio y clonarlo desde github a mi computadora
